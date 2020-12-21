@@ -1,5 +1,5 @@
 # 행동기반 어뷰저 판별 딥러닝 모델링
-
+### [Abuser Detection](https://github.com/hojisu/abuser-detection-project/blob/master/abuser-detection.ipynb)
 
 ## 목적
   - 트랜스포머 기반의 유저 행동 패턴을 통해 어뷰저 판별 모형을 개발한다. 
